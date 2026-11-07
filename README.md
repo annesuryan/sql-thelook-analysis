@@ -62,7 +62,8 @@ Tabel yang digunakan:
 
 *(Bagian ini dapat diisi dengan minimal 2 insight berdasarkan hasil analisis soal 3 dan 5)*
 
-  - **Insight 1 (Kategori Produk):** \[Tuliskan temuan kategori produk terbanyak di sini\]
+  - **Insight 1 (Kategori Produk):**
+  -  -- Kategori PRODUK \[Tuliskan temuan kategori produk terbanyak di sini\]
   - **Insight 2 (Total Penjualan):** \[Tuliskan temuan kategori dengan penjualan terbesar di sini\]
 
 -----
